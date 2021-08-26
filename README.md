@@ -1,0 +1,1 @@
+# wantcry-batch-ransomware
